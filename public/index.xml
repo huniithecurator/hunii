@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog outline on hunii</title>
+    <link>https://gokarna-hugo.netlify.app/</link>
+    <description>Recent content in blog outline on hunii</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 10 Dec 2022 20:26:40 -0500</lastBuildDate><atom:link href="https://gokarna-hugo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://gokarna-hugo.netlify.app/posts/about/</link>
+      <pubDate>Sat, 10 Dec 2022 20:26:40 -0500</pubDate>
+      
+      <guid>https://gokarna-hugo.netlify.app/posts/about/</guid>
+      <description>hello</description>
+    </item>
+    
+  </channel>
+</rss>
